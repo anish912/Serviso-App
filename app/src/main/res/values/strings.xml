@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Serviso App</string>
+    <string name="category_image">Category Image</string>
+    <string name="service_image_desc">service_image_desc</string>
+</resources>
